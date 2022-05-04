@@ -1,3 +1,3 @@
 # Shop api
 
-# api example with Nodejs Expressjs MongoDB
+# api example with Nodejs, Expressjs & MongoDB
